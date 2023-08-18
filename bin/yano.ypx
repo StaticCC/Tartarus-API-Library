@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yano version="1.0" xmlns="urn:yano">
+  <project>
+    <input>
+      <file path="..\..\..\Tartarus\Tartarus\bin\Debug\Tartarus.exe" />
+    </input>
+    <output path="..\..\..\Tartarus\Tartarus\bin\Debug\obfuscated" map="..\..\..\Tartarus\Tartarus\bin\Debug\obfuscated\map.ymx" stamp="false" />
+    <renaming scope="all" noncharacters="true" strip-namespaces="true" include-serializable="true" cls-compliant="true" />
+    <control-flow level="high" />
+    <string-encryption enabled="true" />
+    <resource-encryption enabled="true" />
+    <anti-tampering enabled="true" />
+    <pruning scope="all" analysis-enabled="true" />
+  </project>
+</yano>

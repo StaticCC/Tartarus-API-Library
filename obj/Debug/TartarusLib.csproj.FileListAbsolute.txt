@@ -1,0 +1,13 @@
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\bin\Debug\TartarusLib.dll.config
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\bin\Debug\TartarusLib.dll
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\bin\Debug\TartarusLib.pdb
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\bin\Debug\MaterialSkin.dll
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\bin\Debug\MySql.Data.dll
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\bin\Debug\MySql.Data.xml
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\obj\Debug\TartarusLib.Properties.Resources.resources
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\obj\Debug\TartarusLib.csproj.GenerateResource.cache
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\obj\Debug\TartarusLib.csproj.CopyComplete
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\obj\Debug\TartarusLib.dll
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\obj\Debug\TartarusLib.pdb
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\obj\Debug\TartarusLib.Authenticate.resources
+C:\Users\Cory\source\repos\TartarusLib\TartarusLib\obj\Debug\TartarusLib.csprojAssemblyReference.cache
